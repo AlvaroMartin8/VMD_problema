@@ -1,2 +1,5 @@
 # VMD_problema
-Aquí es troben els 4 fitxers .pdb separats
+El archivo proteina.pdb es la proteina de la molécula problema.
+El archivo nucleic.pdb contiene una molécula de ADN.
+El archivo water.pdb contiene varias moléculas de agua.
+El archivo remdesivir.pdb contiene el fármaco utilizado para reducir la replicación del Covid.
